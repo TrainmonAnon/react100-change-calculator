@@ -1,0 +1,1 @@
+This is a project in React100 that takes in an amount due and amount received and returns the amount of change due, as well as the quanties of bills and coins to fulfill the change due.
